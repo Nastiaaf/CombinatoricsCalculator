@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_combination"
+        android:clickable="true"
+        android:title="צירופים" />
+
+    <item android:id="@+id/nav_orderImportant"
+        android:clickable="true"
+        android:title="חליפות"/>
+
+    <item android:id="@+id/nav_orderN"
+        android:clickable="true"
+        android:title="תמורות" />
+
+
+
+</menu>
